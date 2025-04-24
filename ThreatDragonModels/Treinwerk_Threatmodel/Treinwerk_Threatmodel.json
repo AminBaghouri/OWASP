@@ -2,15 +2,25 @@
   "version": "2.4.1",
   "summary": {
     "title": "Treinwerk_Threatmodel",
-    "owner": "Amin Baghouri",
+    "owner": "",
     "description": "Dit threatmodel beschrijft de potentiële risicos en gevaren in verband met het werken op een trein. Hier gebruiken we de STRIDE methode om dit te theoriseren.",
     "id": 0
   },
   "detail": {
     "contributors": [],
-    "diagrams": [],
-    "diagramTop": 0,
-    "reviewer": "Boeynaems",
+    "diagrams": [
+      {
+        "id": 0,
+        "title": "New STRIDE diagram",
+        "diagramType": "STRIDE",
+        "placeholder": "New STRIDE diagram description",
+        "thumbnail": "./public/content/images/thumbnail.stride.jpg",
+        "version": "2.4.1",
+        "cells": []
+      }
+    ],
+    "diagramTop": 1,
+    "reviewer": "",
     "threatTop": 0
   }
 }
